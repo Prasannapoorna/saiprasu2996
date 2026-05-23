@@ -2,7 +2,7 @@
 
 🎯 Data Analyst | Python • SQL • Power BI | Open to Remote Roles Worldwide
 
-📍 Andhra Pradesh, India | ⏰ Available Immediately
+📍 Bengaluru, India | ⏰ Available Immediately
 
 ---
 
