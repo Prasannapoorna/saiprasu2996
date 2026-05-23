@@ -1,6 +1,6 @@
 # Hi, I'm Sai Prasanna 👋
 
-🎯 Data Analyst | Python • SQL • Power BI | Open to Remote Roles Worldwide
+🎯 Data Analyst | Python • SQL • Power BI | Open to Full-Time Roles | Onsite & Remote | Worldwide
 
 📍 Bengaluru, India | ⏰ Available Immediately
 
