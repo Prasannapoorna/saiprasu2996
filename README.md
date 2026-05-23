@@ -19,11 +19,11 @@
 | Project | Tools | Description |
 |---------|-------|-------------|
 | Sales Performance Dashboard | Power BI, DAX, Excel | Interactive KPI tracking dashboard |
-| SQL E-commerce Analysis | Python, SQL, pandas | Customer pattern & revenue analysis |
+| [SQL E-commerce Analysis](https://github.com/Prasannapoorna/sql-ecommerce-analysis) | Python, SQL, pandas | Customer pattern & revenue analysis |
 | Task Manager App | Python, HTML, CSS | Full-stack task management tool |
 
 ---
 
 ## 📫 Connect With Me
 - 💼 LinkedIn: [linkedin.com/in/saiprasu2996](https://linkedin.com/in/saiprasu2996)
-- 📧 Email: saiprasu2996@gmail.com# saiprasu2996
+- 📧 Email: saiprasu2996@gmail.com
