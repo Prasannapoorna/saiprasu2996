@@ -18,7 +18,7 @@
 
 | Project | Tools | Description |
 |---------|-------|-------------|
-| Sales Performance Dashboard | Power BI, DAX, Excel | Interactive KPI tracking dashboard |
+| [Sales Performance Dashboard](https://github.com/Prasannapoorna/sales-performance-dashboard) | Python, pandas, matplotlib | KPI tracking dashboard |
 | [SQL E-commerce Analysis](https://github.com/Prasannapoorna/sql-ecommerce-analysis) | Python, SQL, pandas | Customer pattern & revenue analysis |
 | Task Manager App | Python, HTML, CSS | Full-stack task management tool |
 
